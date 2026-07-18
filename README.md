@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**bushuyeu/bushuyeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate AI researcher at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) at the department of Information and Computer Science. 
 
-Here are some ideas to get you started:
+Research interests:
+- Embodied AI: vision-language-action models (VLAs) for humanoid locomotion and manipulation at [Igor Molybog](https://igormolybog.github.io) Lab
+- AI for Healthcare at UH Cancer Center's [Shepherd Research Lab](https://shepherdresearchlab.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Teaching: 
+- Computer Methods for Engineering (ME 360)
+- workshop on applied ML and humanoid robots at 'Iolani Artificial Intelligence Lab 
+
+Feel free to reach me via [pavelbushuyeu@gmail.co](mailto:pavelbushuyeu@gmail.com)
+
+### Links:
+
+- [Linkedin](http://linkedin.com/in/bushuyeu/);
+- [GitHub](https://github.com/bushuyeu);
+- [HuggingFace](https://huggingface.co/bushuyeu);
+
+### News: 
+- July 2026: I will attend ICML 2026 conference on July 6-11 in Seoul, South Korea. Please come attend our presentation in COEX Hall A on July 11, 2026.
+- June 2026: Our next iteration fo the paper [What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge](https://arxiv.org/abs/2601.10922) will be presented at the [ICML 2026](http://icml.cc/) [Efficient Multimodal Question Answering workshop](https://qanta-org.github.io/competition/2026/icml/).
+- March 2026: I'm presenting preliminary results from ShepBERT at the University of Hawai'i Cancer Center × Google Cloud AI Research Workshop 2026. 
+ShepBERT is a BERT-style clinical language model pre-trained on 230,000+ patient EHR records and designed to predict 1-year cancer risk—with a focus on Native Hawaiian and Pacific Islander populations, who face disproportionately high cancer burden in proportion with the mainland US.
+- January 2026: A new paper on [What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge](https://arxiv.org/pdf/2601.10922), describing our approach to balancing difficulty and diversity in sampling high-quality supervised learning datasets for multimodal models.
+- December 2025: I will attend NeurIPS 2025 conference on December 2-7 in San Diego, CA. Please come attend our presentation in San Diego Convention Center, Upper Level Ballroom 6DE at 11:15 AM - 2:00 PM PT on December 6, 2025.
+- November 2025: Our team (Yosub Shin, Michael Buriek, Boris Sobolev, Vikas Kumar, Haoyang Xu, Samuel Watson and me) took the First Place at the [DCVLR](https://dcvlr-neurips.github.io) [NeurIPS 2025](https://neurips.cc/Conferences/2025) challenge.
+- September 2025: Collaborative Research: MATH-DT Dynamical Models and Statistical Guarantees for Sparse Sensing in Nuclear Digital Twins as part of the Prof. Andrei Klishin lab.
+- August 2025: I joined the department of Information and Computer Science at the University of Hawai'i at Manoa as a M.Sc/PhD Scholar.
