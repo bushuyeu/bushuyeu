@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I am a graduate AI researcher at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) at the department of [Information and Computer Science](http://ics.hawaii.edu/). 
+I am a graduate AI researcher at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) at the department of [Information and Computer Science](http://ics.hawaii.edu/) 
 
 Research interests:
-- Embodied AI: vision-language-action models (VLAs) for humanoid locomotion and manipulation at [Igor Molybog](https://igormolybog.github.io) Lab
+- Embodied AI: vision-language-action models (VLAs) for humanoid locomotion and manipulation at [Prof. Igor Molybog Lab](https://igormolybog.github.io)
 - AI for Healthcare at UH Cancer Center's [Shepherd Research Lab](https://shepherdresearchlab.org)
 
 Teaching: 
-- Computer Methods for Engineering (ME 360)
-- workshop on applied ML and humanoid robots at 'Iolani Artificial Intelligence Lab 
+- Computer Methods for Engineering (ME 360);
+- workshop on applied ML and humanoid robots at 'Iolani Artificial Intelligence Lab.
 
 Feel free to reach me via [pavelbushuyeu@gmail.co](mailto:pavelbushuyeu@gmail.com)
 
