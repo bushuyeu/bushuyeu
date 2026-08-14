@@ -10,7 +10,7 @@ Teaching:
 - Computer Methods for Engineering (ME 360);
 - workshop on applied ML and humanoid robots at 'Iolani Artificial Intelligence Lab.
 
-Feel free to reach me via [pavelbushuyeu@gmail.co](mailto:pavelbushuyeu@gmail.com)
+Feel free to reach me via [pavelbushuyeu@gmail.com](mailto:pavelbushuyeu@gmail.com)
 
 ### Links:
 
