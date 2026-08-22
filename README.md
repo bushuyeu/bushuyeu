@@ -4,7 +4,6 @@ I am a graduate AI researcher at [University of Hawaiʻi at Mānoa](https://mano
 
 Research interests:
 - Embodied AI: vision-language-action models (VLAs) for humanoid locomotion and manipulation at [Prof. Igor Molybog Lab](https://igormolybog.github.io)
-- AI for Healthcare at UH Cancer Center's [Shepherd Research Lab](https://shepherdresearchlab.org)
 
 Teaching: 
 - Computer Methods for Engineering (ME 360);
