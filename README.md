@@ -20,7 +20,7 @@ Feel free to reach me via [pavelbushuyeu@gmail.com](mailto:pavelbushuyeu@gmail.c
 
 ### News: 
 - August 2026: I am pleased to share that I recieved NSF NRT-AI DESCARTES fellowship award. 
-- July 2026: I will join 'Iolani 'Iolani Artificial Intelligence Lab as a faculty member for their Honors Machine Learning class. 
+- July 2026: I will join 'Iolani Artificial Intelligence Lab as a faculty member for their Honors Machine Learning class. 
 - July 2026: I will attend ICML 2026 conference on July 6-11 in Seoul, South Korea. Please come attend our presentation in COEX Hall A on July 11, 2026 at 11 am.
 - June 2026: Our next iteration fo the paper [What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge](https://arxiv.org/abs/2601.10922) will be presented at the [ICML 2026](http://icml.cc/) [Efficient Multimodal Question Answering workshop](https://qanta-org.github.io/competition/2026/icml/).
 - March 2026: I'm presenting preliminary results from ShepBERT at the University of Hawai'i Cancer Center × Google Cloud AI Research Workshop 2026. 
