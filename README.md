@@ -18,7 +18,7 @@ Feel free to reach me via [pavelbushuyeu@gmail.com](mailto:pavelbushuyeu@gmail.c
 - [HuggingFace](https://huggingface.co/bushuyeu);
 
 ### News: 
-- October 2026: We have released [Fiatlux](http://fiatlux-bench.github.io/), a benchmark for evaluating humanoid robot policies on infrastructure maintenance tasks.  
+- September 2026: We have released [Fiatlux](http://fiatlux-bench.github.io/), a benchmark for evaluating humanoid robot policies on infrastructure maintenance tasks.  
 - August 2026: I am pleased to share that I received the NSF NRT-AI DESCARTES fellowship award. 
 - July 2026: I joined 'Iolani Artificial Intelligence Lab as a faculty member for their Honors Machine Learning class. 
 - July 2026: I will attend ICML 2026 conference on July 6-11 in Seoul, South Korea. Attend our presentation in COEX Hall A on July 11, 2026, at 11 am.
