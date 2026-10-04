@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am a graduate AI researcher at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) at the department of [Information and Computer Science](http://ics.hawaii.edu/) 
 
 Research interests:
