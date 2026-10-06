@@ -11,6 +11,8 @@ Feel free to reach me via [pavelbushuyeu@gmail.com](mailto:pavelbushuyeu@gmail.c
 
 ### Links:
 
+- [bushuyeu.com](https://bushuyeu.com), personal website;
+
 - [Linkedin](http://linkedin.com/in/bushuyeu/);
 - [GitHub](https://github.com/bushuyeu);
 - [HuggingFace](https://huggingface.co/bushuyeu);
