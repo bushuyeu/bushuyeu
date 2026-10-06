@@ -1,4 +1,4 @@
-I am a graduate AI researcher at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) at the department of [Information and Computer Science](http://ics.hawaii.edu/) 
+I am a graduate AI researcher at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) in the Department of [Information and Computer Sciences](http://ics.hawaii.edu/) 
 
 Research interests:
 - Embodied AI: vision-language-action models (VLAs) for humanoid locomotion and manipulation at [Prof. Igor Molybog Lab](https://igormolybog.github.io)
@@ -27,4 +27,4 @@ ShepBERT is a BERT-style clinical language model pre-trained on 230,000+ patient
 - December 2025: I will attend NeurIPS 2025 conference on December 2-7 in San Diego, CA. Join our presentation at the San Diego Convention Center, Upper Level Ballroom 6DE, 11:15 AM-2:00 PM PT on December 6, 2025.
 - November 2025: Our team (Yosub Shin, Michael Buriek, Boris Sobolev, Vikas Kumar, Haoyang Xu, Samuel Watson and me) took the first place at the [DCVLR](https://dcvlr-neurips.github.io) [NeurIPS 2025](https://neurips.cc/Conferences/2025) challenge.
 - September 2025: Collaborative Research: MATH-DT Dynamical Models and Statistical Guarantees for Sparse Sensing in Nuclear Digital Twins as part of the [Prof. Andrei Klishin lab](https://www.aklishin.science).
-- August 2025: I joined the department of Information and Computer Science at the University of Hawai'i at Manoa as a M.Sc/PhD Scholar.
+- August 2025: I joined the Department of Information and Computer Sciences at the University of Hawai'i at Manoa as a M.Sc/PhD Scholar.
